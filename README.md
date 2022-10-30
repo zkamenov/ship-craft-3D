@@ -21,23 +21,35 @@ python Main.py
 ### Controls
 
 `w` - move forward
+
 `a` - move leftward
+
 `s` - move backward
+
 `d` - move rightward
+
 `<space>` - jump
+
 `i` - switch dimensions
+
 `e` - access inventory
+
 `<click>` - mine (hand is empty) / place (block in hand) / switch items (inventory)
+
 `<digit>` - select item in hotbar
 
 `r` - shift map
+
 `k` - save to slot
+
 `l` - load slot
 
 `o` - decrease screen resolution (useful for speed)
+
 `p` - increase screen resolution (useful for screenshots)
 
 `n` - decrease max render distance
+
 `m` - increase max render distance
 
 If you would like to re-access the castle save, go to the save folder and copy
@@ -55,5 +67,5 @@ To re-enable accent menu, execute this command:
 
 `defaults write -g ApplePressAndHoldEnabled -bool true`
 
-[source of fix](https://superuser.com/questions/1257641/disable-mac-typing-accent-menu#:~:text=1%20Answer&text=is%20not%20useful,Show%20activity%20on%20this%20post.,them%20to%20load%20the%20setting.)
+[Source of Fix](https://superuser.com/questions/1257641/disable-mac-typing-accent-menu#:~:text=1%20Answer&text=is%20not%20useful,Show%20activity%20on%20this%20post.,them%20to%20load%20the%20setting.)
 
