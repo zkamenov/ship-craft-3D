@@ -63,9 +63,8 @@ executing the following command in the terminal:
 
 `defaults write -g ApplePressAndHoldEnabled -bool false`
 
-To re-enable accent menu, execute this command:
+To re-enable accent menu, execute this command 
+([Source of Fix](https://superuser.com/questions/1257641/disable-mac-typing-accent-menu#:~:text=1%20Answer&text=is%20not%20useful,Show%20activity%20on%20this%20post.,them%20to%20load%20the%20setting.)):
 
 `defaults write -g ApplePressAndHoldEnabled -bool true`
-
-[Source of Fix](https://superuser.com/questions/1257641/disable-mac-typing-accent-menu#:~:text=1%20Answer&text=is%20not%20useful,Show%20activity%20on%20this%20post.,them%20to%20load%20the%20setting.)
 
